@@ -1,0 +1,22 @@
+{
+  "inicio": "2026-11-21T00:19:22.6915769+00:00",
+  "totalFilas": 500,
+  "milisegundos": 300,
+  "fuentes": [
+    {
+      "fuente": "encuestas",
+      "filas": 500,
+      "milisegundos": 144
+    },
+    {
+      "fuente": "resenas",
+      "filas": 0,
+      "milisegundos": 156
+    },
+    {
+      "fuente": "comentarios",
+      "filas": 0,
+      "milisegundos": 63
+    }
+  ]
+}
