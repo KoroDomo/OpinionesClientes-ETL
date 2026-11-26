@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opiniones.Extraccion", "Opi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opiniones.Fuentes", "Opiniones.Fuentes\Opiniones.Fuentes.csproj", "{FC6F221D-CF50-4183-8CB9-6C400581915F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opiniones.Carga", "Opiniones.Carga\Opiniones.Carga.csproj", "{7CA337B2-D81A-4516-AB00-88FEE5021BF7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{FC6F221D-CF50-4183-8CB9-6C400581915F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC6F221D-CF50-4183-8CB9-6C400581915F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC6F221D-CF50-4183-8CB9-6C400581915F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CA337B2-D81A-4516-AB00-88FEE5021BF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CA337B2-D81A-4516-AB00-88FEE5021BF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CA337B2-D81A-4516-AB00-88FEE5021BF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CA337B2-D81A-4516-AB00-88FEE5021BF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
